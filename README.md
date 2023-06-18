@@ -1,2 +1,2 @@
 # 2nd_Semester_Codes
-Data Structures
+Data Structures and Algorithms
